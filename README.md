@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## [Sumukh Jadhav](https://sumukhjadhav.github.io/portfolio.github.io/) </br>
+## Hi, [Sumukh Jadhav](https://sumukhjadhav.github.io/portfolio.github.io/) here </br>
 <b> Final year Computer Science Student at [JIT](https://www.jyothyit.ac.in/), from <b>Bengaluru, India</b>
 <p><a href="https://www.linkedin.com/in/sumukh-jadhav/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sumukhjadhav/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 <a href="https://stackoverflow.com/users/14165349/sumukh-jadhav"><img src=https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8782331/adi-kris" height=25></a></p>
