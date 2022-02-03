@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <b> Final year Computer Science Student at [JIT](https://www.jyothyit.ac.in/), from <b>Bengaluru, India</b>
   <br>
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SumukhJadhav&color=lightgrey">
+    <img src="https://komarev.com/ghpvc/?username=SumukhJadhav&color=green">
 </a>
   <br>
 <p><a href="https://www.linkedin.com/in/sumukh-jadhav/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sumukhjadhav/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://sql.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://clanguage.com" target="_blank"> <img src="https://img.icons8.com/fluency-systems-filled/48/000000/circled-c.png"/> </a>
