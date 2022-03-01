@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   
 <br>
 
-   <a href="https://www.python.org" target="_blank"> <img src="https://metrics.lecoq.io/sumukhjadhav?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FCalcutta"/> </a> 
 ## Languages and Tools:
 
 <p align="left"> 
