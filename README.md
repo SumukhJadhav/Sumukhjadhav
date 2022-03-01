@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/14165349/sumukh-jadhav"><img src=https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8782331/adi-kris" height=25></a></p>
   
 <br>
-
+<p align = "center">
+  <a href = "" taget="_blank">
+  <img src ="https://metrics.lecoq.io/sumukhjadhav?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta"/></a>
+  </p>
 <br>
    <a href="https://www.python.org" target="_blank"> <img src="https://metrics.lecoq.io/sumukhjadhav?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FCalcutta"/> </a> 
 ## Languages and Tools:
