@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br/>
  <p align="center">
   <a href="https://github.com/SumukhJadhav/github-readme-streak-stats">
-        <img title="🔥" alt="Sumukh" src="https://metrics.lecoq.io/sumukhjadhav?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta"/>
+        <img title="🔥" alt="Sumukh" src="https://metrics.lecoq.io/sumukhjadhav?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta&config.display=large"/>
     </a>
   </p>
 
