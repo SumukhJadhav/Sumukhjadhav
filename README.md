@@ -23,11 +23,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/14165349/sumukh-jadhav"><img src=https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8782331/adi-kris" height=25></a></p>
   
 <br>
-<p align = "center">
-  <a href = "" taget="_blank">
-  <img src ="https://metrics.lecoq.io/sumukhjadhav?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta"/></a>
-  </p>
-<br>
+
    <a href="https://www.python.org" target="_blank"> <img src="https://metrics.lecoq.io/sumukhjadhav?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FCalcutta"/> </a> 
 ## Languages and Tools:
 
@@ -41,6 +37,10 @@ Here are some ideas to get you started:
 
   
 <p align="center">
+  <a href="https://github.com/SumukhJadhav/github-readme-streak-stats">
+        <img title="🔥" alt="Sumukh" src="https://metrics.lecoq.io/sumukhjadhav?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta"/>
+    </a>
+  
     <a href="https://github.com/SumukhJadhav/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumukh's streak" src="http://github-readme-streak-stats.herokuapp.com/?user=SumukhJadhav&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
