@@ -36,10 +36,6 @@ Here are some ideas to get you started:
 
   
 <p align="center">
-  <a href="https://github.com/SumukhJadhav/github-readme-streak-stats">
-        <img title="🔥" alt="Sumukh" src="https://metrics.lecoq.io/sumukhjadhav?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta"/>
-    </a>
-  
     <a href="https://github.com/SumukhJadhav/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumukh's streak" src="http://github-readme-streak-stats.herokuapp.com/?user=SumukhJadhav&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
