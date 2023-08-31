@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=SumukhJadhav&color=green">
 </a>
   <br>
-<p><a href="https://www.linkedin.com/in/sumukh-jadhav/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sumukhjadhav/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p><a href="https://www.linkedin.com/in/sumukh-jadhav/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sumukh_jadhav/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 <a href="https://stackoverflow.com/users/14165349/sumukh-jadhav"><img src=https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8782331/adi-kris" height=25></a></p>
   
 <br>
