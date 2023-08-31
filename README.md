@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, [Sumukh Jadhav](https://sumukhjadhav.github.io/portfolio.github.io/) here </br>
-<b> Final year Computer Science Student at [JIT](https://www.jyothyit.ac.in/), from <b>Bengaluru, India</b>
+<b> Reliability and Production Engineer at [Morgan Stanley](https://www.morganstanley.com/), from <b>Bengaluru, India</b>
   <br>
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SumukhJadhav&color=green">
